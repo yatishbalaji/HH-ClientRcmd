@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ClientRcmdWebService:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ClientRcmdWebService.war">
+      <element id="artifact" artifact-name="ClientRcmdWebService:war exploded" />
+    </root>
+  </artifact>
+</component>
