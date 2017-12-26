@@ -55,31 +55,11 @@
     <orderEntry type="library" name="Maven: asm:asm-util:3.3.1" level="project" />
     <orderEntry type="library" name="Maven: asm:asm-tree:3.3.1" level="project" />
     <orderEntry type="library" name="Maven: com.headhonchos:JsRcmdQuery:1.0" level="project" />
-    <orderEntry type="library" name="Maven: com.headhonchos:DataAccessLayer:3.0" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.0" level="project" />
-    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.16" level="project" />
-    <orderEntry type="library" name="Maven: org.slf4j:slf4j-log4j12:1.7.16" level="project" />
-    <orderEntry type="library" name="Maven: log4j:log4j:1.2.17" level="project" />
-    <orderEntry type="library" name="Maven: mysql:mysql-connector-java:5.1.6" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.tika:tika-core:1.13" level="project" />
-    <orderEntry type="library" name="Maven: com.headhonchos:DataObjects:3.0" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.solr:solr-solrj:5.4.0" level="project" />
-    <orderEntry type="library" name="Maven: commons-io:commons-io:2.4" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpclient:4.4.1" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpcore:4.4.1" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpmime:4.4.1" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.zookeeper:zookeeper:3.4.6" level="project" />
-    <orderEntry type="library" name="Maven: org.codehaus.woodstox:stax2-api:3.1.4" level="project" />
-    <orderEntry type="library" name="Maven: org.codehaus.woodstox:woodstox-core-asl:4.4.1" level="project" />
-    <orderEntry type="library" name="Maven: org.noggit:noggit:0.6" level="project" />
-    <orderEntry type="library" name="Maven: org.slf4j:jcl-over-slf4j:1.7.7" level="project" />
-    <orderEntry type="library" name="Maven: com.drewnoakes:metadata-extractor:2.6.2" level="project" />
-    <orderEntry type="library" name="Maven: com.adobe.xmp:xmpcore:5.1.2" level="project" />
-    <orderEntry type="library" name="Maven: xerces:xercesImpl:2.8.1" level="project" />
-    <orderEntry type="library" name="Maven: xml-apis:xml-apis:1.3.03" level="project" />
-    <orderEntry type="library" name="Maven: commons-collections:commons-collections:3.2.1" level="project" />
+    <orderEntry type="library" name="Maven: com.headhonchos:DataAccessLayer:1.0" level="project" />
+    <orderEntry type="library" name="Maven: com.headhonchos:DataObjects:1.0" level="project" />
     <orderEntry type="library" name="Maven: ch.qos.logback:logback-classic:1.1.2" level="project" />
     <orderEntry type="library" name="Maven: ch.qos.logback:logback-core:1.1.2" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.6" level="project" />
     <orderEntry type="library" name="Maven: javax.mail:mail:1.4.7" level="project" />
     <orderEntry type="library" name="Maven: javax.activation:activation:1.1" level="project" />
   </component>

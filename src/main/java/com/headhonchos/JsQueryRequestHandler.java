@@ -5,19 +5,13 @@ import com.headhonchos.SolrQuery.SRQueryBuilderFacade;
 import com.headhonchos.jobPosting.Job;
 import com.headhonchos.rcmd.JobBuilder;
 import com.headhonchos.rcmd.JobDal;
-import java.io.PrintStream;
-import java.sql.SQLException;
-import javax.ws.rs.Consumes;
-import javax.ws.rs.GET;
-import javax.ws.rs.POST;
-import javax.ws.rs.Path;
-import javax.ws.rs.PathParam;
-import javax.ws.rs.Produces;
-import javax.ws.rs.WebApplicationException;
-import javax.ws.rs.core.MultivaluedMap;
-import javax.ws.rs.core.Response.Status;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
+import javax.ws.rs.*;
+import javax.ws.rs.core.MultivaluedMap;
+import javax.ws.rs.core.Response;
+import java.sql.SQLException;
 
 @Path("/v2")
 public class JsQueryRequestHandler
