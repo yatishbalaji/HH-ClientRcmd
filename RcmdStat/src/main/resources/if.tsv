@@ -1,0 +1,72 @@
+Accounting/ Taxation/ Audit	Accounting/ Taxation/ Audit
+Advertising/ PR/ Market Research/ Events	Advertising/ PR/ Market Research/ Events
+Agriculture/ Horticulture	Agriculture/ Horticulture,Chemicals/ Fertilizer/ Pesticides
+Aviation/ Airlines	Aviation/ Airlines,Aerospace/ Defence,Engineering
+Animation/ Multimedia	Animation/ Multimedia,Entertainment/ Media/ Publishing,IT/ Technology - Software/ Services,Advertising/ PR/ Market Research/ Events,Internet/ ECommerce
+Apparel/ Garments/ Textiles/ Fashion	Apparel/ Garments/ Textiles/ Fashion,Retail,Consumer Durables/ Semi Durables
+Architectural Services/ Interior Design	Architectural Services/ Interior Design,Construction/ Real Estate
+Automobile/ Auto Components	Automobile/ Auto Components
+Aerospace/ Defence	Aerospace/ Defence,Aviation/ Airlines,Engineering
+Banking - Retail	Banking - Retail
+Banking - Corporate	Banking - Corporate
+Investment Banking	Investment Banking,Financial Services/ Capital Markets
+Bio - Tech	Bio - Tech,Pharmaceuticals/ Life Sciences/ Clinical Research
+BPO/ ITES/ Call Centers	BPO/ ITES/ Call Centers
+KPO/ Analytics	KPO/ Analytics,BPO/ ITES/ Call Centers
+Financial Services/ Capital Markets	Financial Services/ Capital Markets
+NBFC	NBFC,Banking - Retail,Financial Services/ Capital Markets,Banking - Corporate,Investment Banking,Insurance
+Cement	Cement,Iron/ Steel/ Metals/ Mining,Ceramics/ Marble/ Glass/ Rubber
+Ceramics/ Marble/ Glass/ Rubber	Ceramics/ Marble/ Glass/ Rubber,Cement,Automobile/ Auto Components
+Chemicals/ Fertilizer/ Pesticides	Chemicals/ Fertilizer/ Pesticides,Pharmaceuticals/ Life Sciences/ Clinical Research
+Construction/ Real Estate	Construction/ Real Estate
+Infrastructure	Infrastructure,Construction/ Real Estate,Engineering,Power/ Energy,Oil/ Gas/ Petrochemicals / Refinery,Iron/ Steel/ Metals/ Mining
+Management Consulting	Management Consulting
+Consumer Durables/ Semi Durables	Consumer Durables/ Semi Durables,FMCG/ Foods/ Beverages,Retail,Electrical/ Electronics,Wellness/ Cosmetics/ Fitness/ Sports
+Facilities Management	Facilities Management,Construction/ Real Estate,BPO/ ITES/ Call Centers,Engineering
+Logistics/ Courier/ Cargo/Transportation	Logistics/ Courier/ Cargo/Transportation,
+Design	Design,Engineering
+Education/ Training	Education/ Training
+Electrical/ Electronics	Electrical/ Electronics,Engineering,Power/ Energy
+Engineering	Engineering
+Entertainment/ Media/ Publishing	Entertainment/ Media/ Publishing,Advertising/ PR/ Market Research/ Events,
+Export/ Import/ Trading House	Export/ Import/ Trading House,Logistics/ Courier/ Cargo/Transportation
+Wellness/ Cosmetics/ Fitness/ Sports	Wellness/ Cosmetics/ Fitness/ Sports,Retail,Consumer Durables/ Semi Durables
+FMCG/ Foods/ Beverages	FMCG/ Foods/ Beverages
+Fire/ Security Equipment	Fire/ Security Equipment,Engineering,Security/ Law Enforcement
+Gems/ Jewellery	Gems/ Jewellery,Retail,Consumer Durables/ Semi Durables
+Government/ Government Bodies	
+Hospitals/ Health Care	Hospitals/ Health Care,Pharmaceuticals/ Life Sciences/ Clinical Research
+Hotels/ Restaurants / Hospitality	Hotels/ Restaurants / Hospitality,Travel/ Tourism
+Credit Rating Agencies/ Information Services	Credit Rating Agencies/ Information Services,Financial Services/ Capital Markets
+Insurance	Insurance
+Internet/ ECommerce	Internet/ ECommerce,IT/ Technology - Software/ Services
+Iron/ Steel/ Metals/ Mining	Iron/ Steel/ Metals/ Mining,Engineering
+IT/ Technology - Data Center/ Manage Infrastructure Services	IT/ Technology - Data Center/ Manage Infrastructure Services,IT/ Technology - Hardware & Networking
+IT/ Technology - Software/ Services	IT/ Technology - Software/ Services,IT/ Technology - ERP/ CRM/ SCM,IT/ Technology - Data Center/ Manage Infrastructure Services,IT/ Technology - Telecom Software,Internet/ ECommerce,IT/ Technology - Quality Assurance/ Testing
+IT/ Technology - Quality Assurance/ Testing	IT/ Technology - Quality Assurance/ Testing,IT/ Technology - Software/ Services,IT/ Technology - Telecom Software,IT/ Technology - ERP/ CRM/ SCM,IT/ Technology - Security,IT/ Technology - Mobile/ VAS Applications,Internet/ ECommerce
+IT/ Technology - Security	IT/ Technology - Security,IT/ Technology - Software/ Services,IT/ Technology - Data Center/ Manage Infrastructure Services,IT/ Technology - Hardware & Networking,Internet/ ECommerce,IT/ Technology - Quality Assurance/ Testing,IT/ Technology - ERP/ CRM/ SCM
+IT/ Technology - ERP/ CRM/ SCM	IT/ Technology - ERP/ CRM/ SCM,IT/ Technology - Software/ Services,IT/ Technology - Data Center/ Manage Infrastructure Services,Internet/ ECommerce,KPO/ Analytics
+IT/ Technology - Mobile/ VAS Applications	IT/ Technology - Mobile/ VAS Applications,IT/ Technology - Software/ Services,IT/ Technology - Telecom Software,Internet/ ECommerce
+IT/ Technology - Telecom Software	IT/ Technology - Telecom Software,IT/ Technology - Software/ Services,Telecom/ Mobile Operator/ ISP/ Telecom Vendor,IT/ Technology - Mobile/ VAS Applications,IT/ Technology - ERP/ CRM/ SCM,IT/ Technology - Security
+IT/ Technology - Embedded	IT/ Technology - Embedded,IT/ Technology - Software/ Services,IT/ Technology - Telecom Software,IT/ Technology - Mobile/ VAS Applications,IT/ Technology - VLSI/ ASIC/ EDA/ Semiconductor,IT/ Technology - Quality Assurance/ Testing
+IT/ Technology - VLSI/ ASIC/ EDA/ Semiconductor	IT/ Technology - VLSI/ ASIC/ EDA/ Semiconductor,IT/ Technology - Embedded,IT/ Technology - Software/ Services,Electrical/ Electronics,IT/ Technology - Hardware & Networking
+IT/ Technology - Hardware & Networking	IT/ Technology - Hardware & Networking,IT/ Technology - Data Center/ Manage Infrastructure Services,IT/ Technology - Software/ Services,Telecom/ Mobile Operator/ ISP/ Telecom Vendor
+IT/ Technology - Education	IT/ Technology - Education,Education/ Training,IT/ Technology - Software/ Services
+Law/ Legal/ LPO	Law/ Legal/ LPO
+NGO/ Social Service	NGO/ Social Service
+Office Automation	
+Oil/ Gas/ Petrochemicals / Refinery	Oil/ Gas/ Petrochemicals / Refinery
+Pharmaceuticals/ Life Sciences/ Clinical Research	Pharmaceuticals/ Life Sciences/ Clinical Research
+Power/ Energy	Power/ Energy,Engineering
+Printing/ Paper/ Packaging	Printing/ Paper/ Packaging,Consumer Durables/ Semi Durables
+Recruitment/ Staffing	Recruitment/ Staffing
+Retail	Retail,Apparel/ Garments/ Textiles/ Fashion,Consumer Durables/ Semi Durables
+Security/ Law Enforcement	Security/ Law Enforcement,Fire/ Security Equipment
+Shipping/ Marine	Shipping/ Marine,Logistics/ Courier/ Cargo/Transportation
+Telecom/ Mobile Operator/ ISP/ Telecom Vendor	Telecom/ Mobile Operator/ ISP/ Telecom Vendor,IT/ Technology - Telecom Software
+Travel/ Tourism	Travel/ Tourism,Hotels/ Restaurants / Hospitality
+Venture Capital/ Private Equity	Venture Capital/ Private Equity,Financial Services/ Capital Markets,Investment Banking,Banking - Corporate
+Veterinary/ Animal Health Products	Veterinary/ Animal Health Products,Pharmaceuticals/ Life Sciences/ Clinical Research
+Water treatment/ Waste Management	Water treatment/ Waste Management,Engineering,Infrastructure,Power/ Energy,Chemicals/ Fertilizer/ Pesticides,Oil/ Gas/ Petrochemicals / Refinery,Automobile/ Auto Components
+Wholesale/ Distribution	Wholesale/ Distribution,Retail,Consumer Durables/ Semi Durables,
+Capital Goods/Machinery	Capital Goods/Machinery,Engineering

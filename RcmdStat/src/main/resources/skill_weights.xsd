@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="weights" type="weightsType"/>
+  <xs:complexType name="weightsType">
+    <xs:sequence>
+      <xs:element type="xs:int" name="INDUSTRY_SKILLS"/>
+      <xs:element type="xs:int" name="MASTER_FUNCTIONAL_AREA_SKILLS"/>
+      <xs:element type="xs:int" name="JOB_TITLE"/>
+      <xs:element type="xs:int" name="SKILLS_DESIGNATION"/>
+      <xs:element type="xs:int" name="KEYWORDS_POWER"/>
+      <xs:element type="xs:int" name="JOB_DESCRIPTION_POWER"/>
+      <xs:element type="xs:int" name="ESSENTIAL_SKILLS_POWER"/>
+      <xs:element type="xs:int" name="OTHER_DETAILS_POWER"/>
+      <xs:element type="xs:int" name="CORE_SKILLS_POWER"/>
+      <xs:element type="xs:double" name="KEYWORD_TUNING_FACTOR"/>
+      <xs:element type="xs:int" name="JT_JD"/>
+      <xs:element type="xs:int" name="JD_KW"/>
+      <xs:element type="xs:int" name="JT_KW"/>
+      <xs:element type="xs:int" name="JT_JD_KW"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
