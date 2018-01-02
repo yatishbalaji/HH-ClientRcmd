@@ -13,6 +13,7 @@
         <module>DataAccessLayer</module>
         <module>DataObjects</module>
         <module>RcmdStat</module>
+        <module>JsRcmdQuery</module>
         <module>ClientRcmdWebService</module>
     </modules>
 
