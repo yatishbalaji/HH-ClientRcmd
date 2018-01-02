@@ -1,0 +1,1 @@
+SOLR_URL=http://solr-web-node1:8983/solr

@@ -1,0 +1,15 @@
+com/headhonchos/jobPosting/Qualification.class
+com/headhonchos/skill/JobSeekerSkill.class
+com/headhonchos/jobPosting/JSkill.class
+com/headhonchos/jobPosting/Location.class
+com/headhonchos/skill/JobSkill.class
+com/headhonchos/parsedJob/LTTTT2Skills.class
+com/headhonchos/paresdResume/ParsedResumeAndJob.class
+com/headhonchos/skill/ResumeSkill.class
+com/headhonchos/jobPosting/Job.class
+com/headhonchos/paresdResume/Designation.class
+com/headhonchos/jobPosting/Industry.class
+com/headhonchos/jobPosting/Function.class
+com/headhonchos/parsedJob/LTTTT2ParsedJob.class
+com/headhonchos/paresdResume/ParsedResume.class
+com/headhonchos/skill/EnrichedSkill.class

@@ -17,11 +17,4 @@
 .idea/
 /.metadata/
 /.recommenders/
-
-ClientRcmdWebService/target
-ClientRcmdWebService/target/*
-ClientRcmdWebService/*.iml
-
-RcmdStat/target
-RcmdStat/target/*
-RcmdStat/*.iml
+*/target/**
